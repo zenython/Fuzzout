@@ -1,4 +1,4 @@
-# Fuzzout -- Created And Managed By Yash Gangurde aka Ho11ow -- <a href="https://www.instagram.com/ho11ow.exe/" target="_blank">Instagram</a>  <a href="https://www.linkedin.com/in/yash-gangurde-ba2634226/" target="_blank">LinkedIn</a>
+# Fuzzout -- Created And Managed By Yash Gangurde aka Ho11ow -- <a href="https://www.instagram.com/ho11ow.exe/" target="_blank">Connect On Instagram</a>  <a href="https://www.linkedin.com/in/yash-gangurde-ba2634226/" target="_blank"> Connect on LinkedIn</a>
 Every Hacker's Go to Fuzzing List.
 Introducing the Ultimate Fuzzing Directory: Your Go-To Resource for Penetration Testers and Bug Bounty Hunters!
 
